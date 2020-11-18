@@ -1,0 +1,40 @@
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\csc.exe
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\vbc.exe
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\project.obada.dll.config
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\project.obada.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\project.obada.pdb
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\obj\Debug\project.obada.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\obj\Debug\project.obada.dll
+c:\users\asus\documents\visual studio 2015\Projects\project.obada\project.obada\obj\Debug\project.obada.pdb
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\project.obada.dll.config
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\project.obada.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\project.obada.pdb
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\project.obada\project.obada\obj\Debug\project.obada.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\project.obada\project.obada\obj\Debug\project.obada.dll
+C:\Users\Asus\Desktop\project.obada\project.obada\obj\Debug\project.obada.pdb
